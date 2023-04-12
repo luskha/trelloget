@@ -1,0 +1,82 @@
+{
+    "apiKey": "9b947310e855a9c09d6aea6c079badae",
+    "apiToken": "ATTA2efb7c8da8ddc73f64246f949c5380226f12b1e70732d3a3977caea16483eed6F599FCCA",
+    "lists": 
+    [
+        {
+            "listId": "62a88f8ba1da0b558cad00d2",
+            "name": "Validação"
+        },
+        
+        {
+            "listId": "62ac855ace700a5b8718666f",
+            "name": "Atualização Mobilidade"
+        },
+        
+        {
+            "listId": "632a010c7f1f20016bf7729b",
+            "name": "Atualização Delivery/Especiais"
+        },
+        
+        {
+            "listId": "62a88f8ba1da0b558cad00d4",
+            "name": "Correções Avançadas"
+        },
+        
+        {
+            "listId": "63a308abadd41801161142ef",
+            "name": "Cards Betho"
+        },
+        
+        {
+            "listId": "6316059d38f44e00d285e76c",
+            "name": "Correções Desenvolvimento (Geral)"
+        },
+        
+        {
+            "listId": "636675b8799cef033fd37644",
+            "name": "Correções Desenvolvimento (iOS)"
+        },
+        
+        {
+            "listId": "6335f06d73e8ec01c44b8eca",
+            "name": "Feedback Cliente"
+        },
+        
+        {
+            "listId": "63a989a7e9876d30194b85a2",
+            "name": "Aguardando Retorno Feedback"
+        },
+        
+        {
+            "listId": "62b1de472427ab16413db640",
+            "name": "Envios para PlayStore"
+        },
+        
+        {
+            "listId": "6361124b38c3e30172af5e25",
+            "name": "1° Envio para Playstore (Europe + delivery+NO"
+        },
+        
+        {
+            "listId": "6361108ef4dd8701e8252bca",
+            "name": "Enviar para Playstore (Sem retorno de cliente)"
+        },
+        
+        {
+            "listId": "63c69f7c22aa890355607718",
+            "name": "Lojas Caídas"
+        },
+        
+        {
+            "listId": "62b37cfef2fc4e433832848e",
+            "name": "Enviar para iOS"
+        },
+        
+        {
+            "listId": "62b38261765c228551836ae6",
+            "name": "Finalizados"
+        }
+     ]
+}
+
